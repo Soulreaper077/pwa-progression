@@ -36,13 +36,20 @@ module.exports = () => {
         theme_color: '#2d3b43',
         start_url: '/',
         publicPath: '/',
+        icons: [
+          {
+            src: path.resolve('src/images/logo.png'),
+            sizes: [96, 128, 192, 256, 384, 512],
+          destination: path.join('assets', 'icons'),
+          }
+        ]
       })
     ],
 
     module: {
       rules: [
         {
-          test: /\.css$/,
+          test: /\.css$/i,
           use: ['style-loader', 'css-loader'],
 
         },

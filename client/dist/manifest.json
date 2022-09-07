@@ -1,0 +1,10 @@
+{
+  "name": "textEditor",
+  "short_name": "JATE",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Just Another Text Editor",
+  "background_color": "#a9a9a9",
+  "theme_color": "#2d3b43"
+}

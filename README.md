@@ -20,6 +20,7 @@ PWA text editor
 
 ## Links 
 [Deployed Website](https://gentle-coast-35495.herokuapp.com/)
+
 [Video Walkthrough](https://drive.google.com/file/d/1O1qNiBJ_0pedNSvDkK1vAr1iNCc1t5Mc/view)
 
 ## Contact Me

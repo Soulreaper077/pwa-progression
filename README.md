@@ -1,11 +1,11 @@
 # PWA-Progression
 
 ## Table Of Contents:
-*[Description](#description)
-*[Installation](#installation)
-*[Usage](#usage)
-*[Links](#links)
-*[Contact Me](#contactme)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Links](#links)
+* [Contact Me](#links)
 
 ## Description 
 This is the challenge for week 19 of the bootcamp. For this challenge, We were instructed to create an application with PWA properties. This would include setting up the app to be used offline, make the app installable in your machine, and setting up service workers. 

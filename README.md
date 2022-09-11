@@ -1,6 +1,6 @@
 # PWA-Progression
 
-## Table Of Contents 
+## Table Of Contents:
 *[Description](#description)
 *[Installation](#installation)
 *[Usage](#usage)
